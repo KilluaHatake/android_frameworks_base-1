@@ -3639,7 +3639,7 @@ public static final String PHONE_BLACKLIST_REGEX_ENABLED = "phone_blacklist_rege
         public static final String KEY_VOICEMAIL_BREATH = "voicemail_breath";
 
         /**
-         * @deprecated Use {@link android.provider.Settings.Global#KEY_SMS_BREATH} instead
+         * @deprecated Use {android.provider.Settings.Global#KEY_SMS_BREATH} instead
          */
         @Deprecated
         public static final String KEY_SMS_BREATH = Global.KEY_SMS_BREATH;
